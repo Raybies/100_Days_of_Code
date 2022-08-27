@@ -47,3 +47,4 @@ while guess != answer:
 
     elif guess != answer:
         print("Guess again.")
+# TODO make a check for not a numb?
